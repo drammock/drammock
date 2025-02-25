@@ -1,5 +1,6 @@
-## Hi there 👋
-
+I am a developer of open-source scientific software, and a scientist trained in acoustic phonetics, speech perception, and auditory neuroscience.
+My scientific interest broadly centers on the perception and representation of speech sounds.
+I'm (probably) most known for my work on [MNE-Python](https://mne.tools).
 <!--
 **drammock/drammock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
